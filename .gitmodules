@@ -1,0 +1,6 @@
+[submodule "sakura"]
+	path = sakura
+	url = git@github.com:oxalorg/sakura.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:manzyun/COSC.git

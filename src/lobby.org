@@ -1,0 +1,25 @@
+#+TITLE: 目録 | Garbage knowledge Collections
+#+AUTHOR: manzyun
+#+LANGUAGE: ja
+#+HTML_DOCTYPE: HTML5
+#+HTML_LINK_HOME: /
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/normalize.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/sakura-vader.css" />
+
+
+まんじゅ（´ん｀）( a.k.a =manzyun= )とか言う、
+「人間の姿をしてるけど、人間らしい思慮のできない下等知的生命体」
+の思慮・念慮の肥え溜めです。
+
+
+* 目録
+- 🚧 Who am I :: 2000 年頃の日本のインターネッツよろしく。な「使ってるパソコンやエディタ」とか。
+- 🚧 IMHO's :: 読む価値を見意出せないが、書いて出さないとやってられないエッセイ群。
+- 🚧 Artifacts :: 拙作色々。
+
+
+* 補遺
+- この Web サイトは、内容は [[https://orgmode.org/ja/index.html][Org Mode]] で書いたものを HTML に出力しています。
+- 文書装飾は『classless(または『[[https://sadnessojisan.github.io/no-class-css-museum/index.html][No Class CSS]]』)』という思想に基く設計の『[[https://oxal.org/projects/sakura/][sakura]]』を使ってます。
+  - 無用だけど、バージョン管理システム『[[https://git-scm.com/][Git]]』の『[[https://git-scm.com/docs/gitsubmodules][サブモジュール( ~submodule~ )]]』という機能で引用してます。参考資料は[[https://leico.github.io/TechnicalNote/Git/sparse-checkout-submodule][こちら]]
+- Web サイトを公開するサーバーには『[[https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages][GitHub Pages]]』を使ってます。なので[[https://github.com/manzyun/COSC][編集履歴もバッチリ残る]]ね？

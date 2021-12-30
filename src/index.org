@@ -1,0 +1,36 @@
+#+TITLE: Garbage knowledge Collections | ガーベジ・ナレッジ・コレクション
+#+AUTHOR: manzyun
+#+LANGUAGE: ja
+#+DESCRIPTION: まんじゅ（´ん｀）( a.k.a manzyun )とか言う、 「人間の姿をしてるけど、人間らしい思慮のできない下等知的生命体」 の肥え溜めです。
+#+KEYWORDS: manzyun
+#+OPTIONS: toc:nil num:nil
+#+HTML_DOCTYPE: HTML5
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/normalize.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/sakura-vader.css" />
+
+#+BEGIN_CENTER
+# ここに SVG でロゴでもブチ込むか？
+/まんじゅ（´ん｀）頭の肥え溜め場/
+
+/そのうち落描きを入れるよ/
+
+[[file:lobby.org][ENTER]]
+
+-----
+
+ここにあるのは \\
+日本で現世は \\
+人型の
+
+下等知的生命体の \\
+うんこみたいな \\
+愚慮の山
+
+なんでうんこを \\
+溜めては見せるか \\
+って？
+
+俺の寂しさを \\
+紛らわせる \\
+為にだけ
+#+END_CENTER
