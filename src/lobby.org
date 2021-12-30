@@ -1,10 +1,9 @@
 #+TITLE: 目録 | Garbage knowledge Collections
 #+AUTHOR: manzyun
 #+LANGUAGE: ja
-#+HTML_DOCTYPE: HTML5
-#+HTML_LINK_HOME: /
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/normalize.css" />
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/sakura-vader.css" />
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/sakura-vader.css" />
 
 
 まんじゅ（´ん｀）( a.k.a =manzyun= )とか言う、
